@@ -7,9 +7,9 @@ WordCount 1.0 是一个能够实现一个命令行文本计数统计程序，能
 2. 打开cmd，输入可执行程序所在的文件夹路径<br>
 3. 再输入命令<br>
 * 命令模式：wc.exe [参数] [文件名]<br>
-例：wc.exe -c file.txt 统计字符数<br>
-wc.exe -w file.txt 统计单词数<br>
-wc.exe -s file.txt 统计句子数<br>
+* wc.exe -c file.txt 统计字符数<br>
+* wc.exe -w file.txt 统计单词数<br>
+* wc.exe -s file.txt 统计句子数<br>
 4. 如果输入的文件不存在，则输出Open the file failed.<br>
 如果输入错误的命令参数，则输出There is no this function.<br>
 ## 文件列表<br>
