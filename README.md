@@ -18,3 +18,4 @@ WordCount 1.0 是一个能够实现一个命令行文本计数统计程序，能
 * test1.txt(内容：空)<br>
 * test2.txt(内容：It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair. We had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.)<br>
 ## 例程运行及结果<br>
+![](https://github.com/yuner076/WordCount/raw/master/运行结果.png)
